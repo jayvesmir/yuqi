@@ -1,1 +1,1 @@
-Checks: 'clang-diagnostic-*,clang-analyzer-*,performance-*,portability-*,readability-*,modernize-*'
+Checks: 'clang-diagnostic-*,clang-analyzer-*,performance-*,portability-*,readability-*,modernize-*,-modernize-use-nodiscard'

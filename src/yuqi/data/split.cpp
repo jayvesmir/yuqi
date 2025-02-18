@@ -1,4 +1,4 @@
-#include "yuqi/data.hpp"
+#include "yuqi/data/data.hpp"
 
 namespace yuqi::data {
     auto dataset::split(float ratio) -> void {

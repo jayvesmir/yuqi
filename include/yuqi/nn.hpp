@@ -14,4 +14,5 @@ namespace yuqi::nn {
     };
 
     using input_layer = std::vector<float>;
+    using output_layer = std::vector<float>;
 } // namespace yuqi::nn
